@@ -5,7 +5,6 @@ import About from "./components/about/about";
 import Services from "./components/services/services";
 import Projects from "./components/projects/projects";
 import Contact from "./components/contact/Contact";
-
 function App() {
   return (
     <>
