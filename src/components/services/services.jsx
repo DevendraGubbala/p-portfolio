@@ -1,4 +1,4 @@
-import "../../css/Services.css";
+import "../../CSS/Services.css";
 
 import {
   FaLaptopCode,

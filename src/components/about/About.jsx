@@ -1,4 +1,4 @@
-import "../../css/About.css";
+import "../../CSS/about.css";
 import { FaCode, FaLaptopCode, FaGraduationCap } from "react-icons/fa";
 
 function About() {

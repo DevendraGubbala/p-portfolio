@@ -1,4 +1,4 @@
-import "../../css/Skills.css";
+import "../../CSS/Skills.css";
 
 import {
   FaJava,
@@ -30,8 +30,8 @@ function Skills() {
   ];
 
   return (
-<section className="about" id="about">
-      <div className="skills-title">
+<section className="skills" id="skills">
+        <div className="skills-title">
         <h4>MY SKILLS</h4>
         <h1>Technologies I Work With</h1>
       </div>
